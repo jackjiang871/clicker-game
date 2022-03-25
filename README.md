@@ -9,4 +9,4 @@ Run `pip install -r requirements.txt` or `pip3 install -r requirements.txt` to i
 
 ## Running the game
 
-Run `python main.py` to start game
+Run `python main.py` to start game or `python main.py -mode debug` to start the game in debug mode
