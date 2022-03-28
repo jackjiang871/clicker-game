@@ -1,0 +1,4 @@
+
+### ignore all virtual environment files ###
+venv/*
+venv
