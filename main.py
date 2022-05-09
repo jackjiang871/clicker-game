@@ -30,7 +30,7 @@ def display_fps():
 def run_game(debug):
     init_screen_and_clock()
 
-    # TODO: move everything to a MVC pattern, this is not scalable lol
+    # TODO: move everything to a MVC pattern, this is not scalable lol, just start checking out
     # just proof of concept for basic clicker game, variables to be deleted
 
     get_money_button = Block(RGB_BLACK, 80, 80)
